@@ -19,7 +19,7 @@ const About = () => {
       </div>
       <div>
         <p>2021</p>
-        <h2>Completed Intermidiate Degree</h2>
+        <h2>Completed Intermediate Degree</h2>
       </div>
     </div>
     </>
