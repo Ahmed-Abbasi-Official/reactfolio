@@ -15,11 +15,11 @@ const About = () => {
       </div>
       <div>
         <p>2024</p>
-        <h2>Purchasing a bachelor Degree</h2>
+        <h2>Pursing  a bachelor Degree</h2>
       </div>
       <div>
         <p>2021</p>
-        <h2>Purchasing a Intermidiate Degree</h2>
+        <h2>Pursing  a Intermidiate Degree</h2>
       </div>
     </div>
     </>

@@ -327,7 +327,7 @@ const portfolio = [
             project3Img4,
             project3Img5,
         ],
-        title: "Blogging Website",
+        title: "CANARD CONTROL MISSILE RESULTS",
         description: "The Canard Control Project focuses on developing an advanced electronic control system for canard-equipped aircraft. This system optimizes maneuverability and stability by dynamically adjusting the canard's angle during flight. The project integrates sensors, microcontrollers, and actuators to ensure precise real-time control. Key features include enhanced aerodynamic performance, improved responsiveness, and reduced drag. By leveraging advanced algorithms, the system adapts to varying flight conditions, providing a safer and more efficient aircraft design. This innovative approach demonstrates the potential of electronics in modern aerospace control systems.",
         link: "https://drive.google.com/drive/folders/1olHBHBBZeY3gkNqcPkOWotgt-6pVGvt5"
     },
