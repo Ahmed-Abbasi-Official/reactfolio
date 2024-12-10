@@ -233,7 +233,7 @@ const professionalExperience = [
         img: defaultCompanyLogo,
         name: "SSGC",
         role: "Mechanical Engineering Intern",
-        duration: "June 2023 - July 2023 (2 Months)",
+        duration: "June 2023 - July 2023 (1 Month)",
         certified: false
     },
   
