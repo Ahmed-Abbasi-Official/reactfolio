@@ -219,7 +219,7 @@ const professionalExperience = [
         img: defaultCompanyLogo,
         name: "Atlas Honda Pvt.",
         role: "Mechanical Engineering Intern (Production Department)",
-        duration: "June 2024 - July 2024 (2 Months)",
+        duration: "June 2024 - July 2024 (1 Month)",
         certified: false
     },
     {
@@ -233,7 +233,7 @@ const professionalExperience = [
         img: defaultCompanyLogo,
         name: "SSGC",
         role: "Mechanical Engineering Intern",
-        duration: "June 2023 - July 2023 (1 Month)",
+        duration: "July 2024 - August 2024 (1 Month)",
         certified: false
     },
   
@@ -304,7 +304,7 @@ const portfolio = [
             project1Img4,
             
         ],
-        title: "CFD ANALYSIS OF BLOOD FLOW THROUGH STENOSED CAROTID",
+        title: "CFD ANALYSIS OF BLOOD FLOW THROUGH STENOSED CAROTID ARTERY ",
         description: "A comprehensive study focusing on the CFD analysis of blood flow through a stenosed carotid artery using Fluid-Structure Interaction (FSI). The project examines how blood flow dynamics and arterial wall mechanics interact, particularly in areas of stenosis. Key features include modeling varying stenosis severities, analyzing velocity and pressure distributions, and studying wall shear stress and arterial deformation. The use of FSI provides realistic insights into hemodynamics, aiding in understanding atherosclerosis progression, improving diagnostic techniques, and developing targeted treatments.",
         link: "https://drive.google.com/drive/folders/1olHBHBBZeY3gkNqcPkOWotgt-6pVGvt5"
     },
