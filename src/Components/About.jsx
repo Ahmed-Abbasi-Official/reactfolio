@@ -15,7 +15,7 @@ const About = () => {
       </div>
       <div>
         <p>2024</p>
-        <h2>Pursuing Bechlolar of Engineering</h2>
+        <h2>Pursuing Bachelor of Engineering</h2>
       </div>
       <div>
         <p>2021</p>
