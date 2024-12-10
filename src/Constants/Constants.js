@@ -190,15 +190,15 @@ const certifications = [
     },
     {
         img: certificate3,
-        certificateProvider: "ASME NUST PNEC",
-        certificationName: "MATLAB Training Work Shop",
-        issuedDate: "October 2023"
+        // certificateProvider: "ASME NUST PNEC",
+        // certificationName: "MATLAB Training Work Shop",
+        // issuedDate: "October 2023"
     },
     {
         img: certificate4,
-        certificateProvider: "ASME NUST PNEC",
-        certificationName: "MATLAB Training Work Shop",
-        issuedDate: "October 2023"
+        // certificateProvider: "ASME NUST PNEC",
+        // certificationName: "MATLAB Training Work Shop",
+        // issuedDate: "October 2023"
     },
     {
         img: certificate5,
